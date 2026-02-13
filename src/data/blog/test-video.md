@@ -1,8 +1,8 @@
 ---
+title: 測試多益教學影片
 author: Ethan
 pubDatetime: 2025-01-01T00:00:00Z
-title: 測試多益教學影片
-postSlug: test-video
+slug: test-video
 featured: true
 draft: false
 tags:
@@ -24,4 +24,4 @@ description: 這是測試 YouTube 影片嵌入的文章。
   ></iframe>
 </div>
 
-如果看到上方有影片，就代表你的新網站完全復活了！
+如果看到上方有影片，就代表方案成功了！
